@@ -3,12 +3,12 @@ export const dataFake = [
     "id":"1",
     "title": "NOVO HOMEM DE FERRO EM 3D",
     "description": "marvel anuncia um novo filme do homem de ferro, confira",
-    "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F51FA9F6CBD9F0C9B1394B1CC0A6A842D07091318674E234CD33CBF7C28CDC3/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    "photoCover":"https://br.shein.com/new/DAZY-NEW-IN-SS-sc-00256274.html?ici=CCCSN=ProductDetailsPage_ON=ListBanner_OI=901_CN=dazy_TI=50001_aod=0_PS=1-1_ABT=0&src_module=ProductDetailsPage&src_identifier=on%3DListBanner%60cn%3Ddazy%60hz%3D0%60ps%3D1_1%60jc%3DitemPicking_00256274&src_tab_page_id=page_goods_detail1695843498162"
   },
   {
     "id":"2",
     "title": "Nova Série anunciada no Disney +",
     "description": "bla blabla",
-    "photoCover":"https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Series-Marvel-Disney-Plus-1024x576.jpg"
+    "photoCover":"https://br.shein.com/new/DAZY-NEW-IN-SS-sc-00256274.html?ici=CCCSN=ProductDetailsPage_ON=ListBanner_OI=901_CN=dazy_TI=50001_aod=0_PS=1-1_ABT=0&src_module=ProductDetailsPage&src_identifier=on%3DListBanner%60cn%3Ddazy%60hz%3D0%60ps%3D1_1%60jc%3DitemPicking_00256274&src_tab_page_id=page_goods_detail1695843498162"
   }
 ]
